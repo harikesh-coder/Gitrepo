@@ -2,5 +2,5 @@
 
 void display()
 {
-    std::cout<<"Display method calling in second file  ";
+    std::cout<<"Display method calling in second file";
 }
